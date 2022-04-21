@@ -1,0 +1,16 @@
+/home/jiten/workspace/personal/csharp-design-patterns/SingletonExample/obj/Debug/net5.0/SingletonExample.csproj.AssemblyReference.cache
+/home/jiten/workspace/personal/csharp-design-patterns/SingletonExample/obj/Debug/net5.0/SingletonExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/jiten/workspace/personal/csharp-design-patterns/SingletonExample/obj/Debug/net5.0/SingletonExample.AssemblyInfoInputs.cache
+/home/jiten/workspace/personal/csharp-design-patterns/SingletonExample/obj/Debug/net5.0/SingletonExample.AssemblyInfo.cs
+/home/jiten/workspace/personal/csharp-design-patterns/SingletonExample/obj/Debug/net5.0/SingletonExample.csproj.CoreCompileInputs.cache
+/home/jiten/workspace/personal/csharp-design-patterns/SingletonExample/bin/Debug/net5.0/SingletonExample
+/home/jiten/workspace/personal/csharp-design-patterns/SingletonExample/bin/Debug/net5.0/SingletonExample.deps.json
+/home/jiten/workspace/personal/csharp-design-patterns/SingletonExample/bin/Debug/net5.0/SingletonExample.runtimeconfig.json
+/home/jiten/workspace/personal/csharp-design-patterns/SingletonExample/bin/Debug/net5.0/SingletonExample.runtimeconfig.dev.json
+/home/jiten/workspace/personal/csharp-design-patterns/SingletonExample/bin/Debug/net5.0/SingletonExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/SingletonExample/bin/Debug/net5.0/ref/SingletonExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/SingletonExample/bin/Debug/net5.0/SingletonExample.pdb
+/home/jiten/workspace/personal/csharp-design-patterns/SingletonExample/obj/Debug/net5.0/SingletonExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/SingletonExample/obj/Debug/net5.0/ref/SingletonExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/SingletonExample/obj/Debug/net5.0/SingletonExample.pdb
+/home/jiten/workspace/personal/csharp-design-patterns/SingletonExample/obj/Debug/net5.0/SingletonExample.genruntimeconfig.cache

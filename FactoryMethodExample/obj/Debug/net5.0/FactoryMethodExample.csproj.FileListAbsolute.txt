@@ -1,0 +1,16 @@
+/home/jiten/workspace/personal/csharp-design-patterns/FactoryMethodExample/obj/Debug/net5.0/FactoryMethodExample.csproj.AssemblyReference.cache
+/home/jiten/workspace/personal/csharp-design-patterns/FactoryMethodExample/obj/Debug/net5.0/FactoryMethodExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/jiten/workspace/personal/csharp-design-patterns/FactoryMethodExample/obj/Debug/net5.0/FactoryMethodExample.AssemblyInfoInputs.cache
+/home/jiten/workspace/personal/csharp-design-patterns/FactoryMethodExample/obj/Debug/net5.0/FactoryMethodExample.AssemblyInfo.cs
+/home/jiten/workspace/personal/csharp-design-patterns/FactoryMethodExample/obj/Debug/net5.0/FactoryMethodExample.csproj.CoreCompileInputs.cache
+/home/jiten/workspace/personal/csharp-design-patterns/FactoryMethodExample/bin/Debug/net5.0/FactoryMethodExample
+/home/jiten/workspace/personal/csharp-design-patterns/FactoryMethodExample/bin/Debug/net5.0/FactoryMethodExample.deps.json
+/home/jiten/workspace/personal/csharp-design-patterns/FactoryMethodExample/bin/Debug/net5.0/FactoryMethodExample.runtimeconfig.json
+/home/jiten/workspace/personal/csharp-design-patterns/FactoryMethodExample/bin/Debug/net5.0/FactoryMethodExample.runtimeconfig.dev.json
+/home/jiten/workspace/personal/csharp-design-patterns/FactoryMethodExample/bin/Debug/net5.0/FactoryMethodExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/FactoryMethodExample/bin/Debug/net5.0/ref/FactoryMethodExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/FactoryMethodExample/bin/Debug/net5.0/FactoryMethodExample.pdb
+/home/jiten/workspace/personal/csharp-design-patterns/FactoryMethodExample/obj/Debug/net5.0/FactoryMethodExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/FactoryMethodExample/obj/Debug/net5.0/ref/FactoryMethodExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/FactoryMethodExample/obj/Debug/net5.0/FactoryMethodExample.pdb
+/home/jiten/workspace/personal/csharp-design-patterns/FactoryMethodExample/obj/Debug/net5.0/FactoryMethodExample.genruntimeconfig.cache
