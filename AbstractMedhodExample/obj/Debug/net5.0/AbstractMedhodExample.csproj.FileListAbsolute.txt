@@ -1,0 +1,16 @@
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractMedhodExample/bin/Debug/net5.0/AbstractMedhodExample
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractMedhodExample/bin/Debug/net5.0/AbstractMedhodExample.deps.json
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractMedhodExample/bin/Debug/net5.0/AbstractMedhodExample.runtimeconfig.json
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractMedhodExample/bin/Debug/net5.0/AbstractMedhodExample.runtimeconfig.dev.json
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractMedhodExample/bin/Debug/net5.0/AbstractMedhodExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractMedhodExample/bin/Debug/net5.0/ref/AbstractMedhodExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractMedhodExample/bin/Debug/net5.0/AbstractMedhodExample.pdb
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractMedhodExample/obj/Debug/net5.0/AbstractMedhodExample.csproj.AssemblyReference.cache
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractMedhodExample/obj/Debug/net5.0/AbstractMedhodExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractMedhodExample/obj/Debug/net5.0/AbstractMedhodExample.AssemblyInfoInputs.cache
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractMedhodExample/obj/Debug/net5.0/AbstractMedhodExample.AssemblyInfo.cs
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractMedhodExample/obj/Debug/net5.0/AbstractMedhodExample.csproj.CoreCompileInputs.cache
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractMedhodExample/obj/Debug/net5.0/AbstractMedhodExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractMedhodExample/obj/Debug/net5.0/ref/AbstractMedhodExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractMedhodExample/obj/Debug/net5.0/AbstractMedhodExample.pdb
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractMedhodExample/obj/Debug/net5.0/AbstractMedhodExample.genruntimeconfig.cache

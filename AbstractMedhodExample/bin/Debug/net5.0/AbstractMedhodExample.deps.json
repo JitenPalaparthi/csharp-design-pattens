@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AbstractMedhodExample/1.0.0": {
+        "runtime": {
+          "AbstractMedhodExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractMedhodExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
